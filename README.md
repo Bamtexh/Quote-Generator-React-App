@@ -8,7 +8,7 @@ To install the app, simply clone this repository and run npm install to install 
 git clone https://github.com/your-username/quote-generator-react-app.git cd quote-generator-react-app npm install
 
 # Usage
- To start the app, run "npm start". The app will be available at http://localhost:3000.
+ To start the app, run "npm start". The app will be available at http://localhost:5173.
 
 npm start
 
